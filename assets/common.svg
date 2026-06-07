@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 120">
+  <rect width="200" height="120" rx="8" fill="#fff7f0"/>
+  <circle cx="40" cy="50" r="18" fill="#fff3e6" stroke="#ffe6cc"/>
+  <rect x="80" y="30" width="90" height="50" fill="#fff" stroke="#ffe6cc"/>
+  <text x="20" y="110" fill="#d86b2a" font-size="12">Common area preview</text>
+</svg>

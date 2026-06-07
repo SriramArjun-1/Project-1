@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="160" height="32" viewBox="0 0 160 32" fill="none">
+  <rect width="160" height="32" rx="6" fill="#0366a6"/>
+  <g transform="translate(8,6)" fill="#fff">
+    <path d="M8 0c2.2 0 4 1.8 4 4s-1.8 4-4 4-4-1.8-4-4S5.8 0 8 0zM14 8c.6 0 1 .4 1 1v3H0V9c0-.6.4-1 1-1h13z"/>
+  </g>
+  <text x="52" y="20" fill="#fff" font-family="Segoe UI, Arial" font-size="12">Dolphin's Colive</text>
+</svg>
